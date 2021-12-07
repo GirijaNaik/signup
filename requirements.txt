@@ -1,0 +1,4 @@
+django
+rest_framework
+authtoken
+Authentication_Classes(BasicAuthentication,TokenAuthentication)
